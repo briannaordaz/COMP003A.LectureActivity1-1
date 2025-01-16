@@ -1,4 +1,10 @@
-﻿// namespace level
+﻿/* 
+ Author: Brianna Ordaz
+Course: COMP003A
+Faculty: Jonathan Cruz
+Purpose: Baisc console app
+ */
+// namespace level
 namespace COMP003A.LectureActivity1
 {
     // class level
